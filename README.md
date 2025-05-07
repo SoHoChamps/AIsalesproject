@@ -1,2 +1,1 @@
-# AIsalesproject
 Business Plan & Roadmap
