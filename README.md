@@ -1,2 +1,1 @@
-# AIsalesproject
-SoHo Applied AI Group Project
+Business Plan & Roadmap
