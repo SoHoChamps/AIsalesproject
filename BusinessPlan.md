@@ -18,4 +18,29 @@ Our mission is to empower businesses with a simple, scalable solution to analyze
 - *Custom Input Options*: Upload CSVs, connect survey APIs, or manually input responses.
 - *Privacy-Compliant*: Adheres to GDPR and CCPA standards for ethical data handling.
 
+## *Product Differentiation*
+
+InsightFlow stands out through:
+
+1. *Qualitative-to-Quantitative Transformation*  
+   Most survey tools stop at collecting open-ended responses. InsightFlow bridges the gap by converting that data into quantifiable, business-ready insights.
+
+2. *Ease of Use and Speed*  
+   No coding, no AI knowledge needed. InsightFlow offers instant results and plug-and-play functionality for small and mid-sized teams.
+
+3. *Business-Aligned Metrics*  
+   Tailored outputs (e.g., product pain points, satisfaction indicators) mapped directly to sales, retention, or UX goals—giving decision-makers clarity, not just data.
+
 ---
+## *Market Opportunity*
+
+- *Target Audience*: Market researchers, UX designers, product teams, and SMBs seeking insights from open-ended feedback.
+- *Market Drivers*:
+  - Rising demand for customer-centric decision-making  
+  - Growth of no-code analytics platforms  
+  - Shift away from manual coding or outsourced research
+
+- *Use Cases*:
+  - Analyzing post-launch product feedback  
+  - Understanding user sentiment in beta testing  
+  - Monitoring brand perception shifts
