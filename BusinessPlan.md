@@ -58,3 +58,16 @@ Dovetail Research repository tool Requires manual tagging/classification Insight
 SurveyMonkey Structured surveys Weak qualitative data processing We specialize in unstructured feedback
 
 Hotjar Web UX feedback Focused on behavior, not language InsightFlow analyzes the why
+
+
+Revenue Model
+
+Subscription-based pricing with three tiers:
+
+· Basic ($29/month): Limited number of responses/month, access to basic analytics
+
+· Standard ($79/month): Full sentiment and keyword analysis, CSV exports, moderate usage cap
+
+· Premium ($149/month): Unlimited responses, advanced analytics, CRM/API integration, priority support
+
+Custom enterprise packages available.
