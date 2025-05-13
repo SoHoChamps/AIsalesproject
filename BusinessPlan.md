@@ -71,3 +71,38 @@ Subscription-based pricing with three tiers:
 · Premium ($149/month): Unlimited responses, advanced analytics, CRM/API integration, priority support
 
 Custom enterprise packages available.
+
+
+## Financial Projections (Year 1–2)
+
+Metric      Year 1 (Pilot Year)     Year 2 (Growth Phase)
+
+Customers            50                      300
+
+Revenue (est.)    $25,000                  $120,000
+
+Monthly Recurring 
+Revenue (MRR)     $2,000–3,000             $10,000+
+
+CAC (Customer 
+Acquisition Cost) ~$25/customer          ~$15/customer
+
+Gross Margin           ~70%                   ~75%
+
+Assumes soft launch via direct outreach and marketing to existing market research/startup communities in Year 1.
+
+
+
+## Team Roles and Responsibilities
+
+### Max (Project Manager) 
+Coordinates workflow, deadlines, and overall execution across tech, marketing, and finance.
+
+### Gilles (Finance Lead) 
+Handles financial modeling, pricing strategy, and budget forecasting.
+
+### Elisa (Tech & Operations Lead) 
+Leads the technical development, dashboard integration, and NLP analytics features. Ensures platform stability, scalability, and user experience.
+
+### Milena (Sales & Marketing Lead) 
+Drives go-to-market strategy, customer acquisition, and brand positioning. Manages campaign design and user onboarding funnel.
