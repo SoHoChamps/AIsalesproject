@@ -35,11 +35,19 @@ InsightFlow stands out through:
 ## *Market Opportunity*
 
 - *Target Audience*: Market researchers, UX designers, product teams, and SMBs seeking insights from open-ended feedback.
+
+
+- *Market Size*:
+  - __Total Adressable Market (TAM):__ With global spend on customer-analytics ($17B) + text‑analytics software ($12.8 B). Driven by explosion of CX data & AI adoption.
+  - __Serviceable Addressable Market (SAM):__ SMB & mid‑market buyers (<$250 M rev) in NA + EU using DIY insight tools (≈ 16 % of TAM). 1.2 M firms × avg $4000 annual spend on insight software.
+  - ___Serviceable Obtainable Market (SOM):__ 3‑year capture goal: 12 k seats (2 % of early‑adopter pool) × $700 ARR. Represents 0.2 % of SAM / 0.03 % of TAM, a realistic beach‑head before Series A.
+
+
 - *Market Drivers*:
   - Rising demand for customer-centric decision-making  
   - Growth of no-code analytics platforms  
   - Shift away from manual coding or outsourced research
-  
+
 
 - *Use Cases*:
   - Analyzing post-launch product feedback  
@@ -65,11 +73,11 @@ Hotjar Web UX feedback Focused on behavior, not language InsightFlow analyzes th
 
 Subscription-based pricing with three tiers:
 
-· Basic ($29/month): Limited number of responses/month, access to basic analytics
+· Basic ($79/month): Limited number of interviews/month, access to basic analytics
 
-· Standard ($79/month): Full sentiment and keyword analysis, CSV exports, moderate usage cap
+· Standard ($249/month): Full sentiment and keyword analysis, CSV exports, AI call interview, moderate usage cap
 
-· Premium ($149/month): Unlimited responses, advanced analytics, CRM/API integration, priority support
+· Premium ($399/month): Unlimited responses, advanced analytics, CRM integration, priority support, and video call interview option
 
 Custom enterprise packages available.
 
@@ -78,12 +86,12 @@ Custom enterprise packages available.
 
 Metric      Year 1 (Pilot Year)     Year 2 (Growth Phase)
 
-Customers            50                      300
+Customers            500                      2000
 
-Revenue (est.)    $25,000                  $120,000
+Revenue (est.)    $121,000                  $500,000
 
 Monthly Recurring 
-Revenue (MRR)     $2,000–3,000             $10,000+
+Revenue (MRR)     $10,000                   $41,000
 
 CAC (Customer 
 Acquisition Cost) ~$25/customer          ~$15/customer
@@ -107,3 +115,14 @@ Leads the technical development, dashboard integration, and NLP analytics featur
 
 ### Milena (Sales & Marketing Lead) 
 Drives go-to-market strategy, customer acquisition, and brand positioning. Manages campaign design and user onboarding funnel.
+
+
+## Funding Needs
+We are asking for $1,500,000 for 20% equity
+
+We are seeking for:
+· Active mentorshiop
+· Instudtry connections
+· Marketing & Lead Generation
+· Talent Acquistion
+· Prospects for Future Financing Rounds
