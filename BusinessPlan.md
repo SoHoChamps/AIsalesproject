@@ -13,9 +13,9 @@ Our mission is to empower businesses with a simple, scalable solution to analyze
 ## *Product Features*
 
 - *AI-Powered Text Analysis*: Automated extraction of sentiment, keywords, and themes from open-ended responses.
-- *Quantified Insights*: Transforms qualitative feedback into KPIs and dashboards for structured decision-making.
-- *Visual Analytics*: Sentiment trends, word clouds, category clustering, and theme tracking in an intuitive UI.
-- *Custom Input Options*: Upload CSVs, connect survey APIs, or manually input responses.
+- *Quantified Insights*: Transforms qualitative feedback into KPIs and dashboards for structured decision-making and provide action recommendations.
+- *Visual Analytics*: Sentiment trends, category clustering, theme tracking in an intuitive UI, summary and action recommendations.
+- *Export Options*: Export CSVs to better erad and manipulate your data on other platforms.
 - *Privacy-Compliant*: Adheres to GDPR and CCPA standards for ethical data handling.
 
 ## *Product Differentiation*
@@ -39,6 +39,7 @@ InsightFlow stands out through:
   - Rising demand for customer-centric decision-making  
   - Growth of no-code analytics platforms  
   - Shift away from manual coding or outsourced research
+  
 
 - *Use Cases*:
   - Analyzing post-launch product feedback  
