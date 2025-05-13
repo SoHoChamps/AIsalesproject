@@ -44,3 +44,17 @@ InsightFlow stands out through:
   - Analyzing post-launch product feedback  
   - Understanding user sentiment in beta testing  
   - Monitoring brand perception shifts
+
+Competitor Analysis
+
+Competitor Focus Area Weakness InsightFlow Advantage
+
+Typeform +
+
+AI add-ons Survey creation & response collection No deep NLP for open-text analysis We provide structured insight from raw text
+
+Dovetail Research repository tool Requires manual tagging/classification InsightFlow automates insight generation
+
+SurveyMonkey Structured surveys Weak qualitative data processing We specialize in unstructured feedback
+
+Hotjar Web UX feedback Focused on behavior, not language InsightFlow analyzes the why
