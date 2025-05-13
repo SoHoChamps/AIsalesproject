@@ -45,7 +45,7 @@ InsightFlow stands out through:
   - Understanding user sentiment in beta testing  
   - Monitoring brand perception shifts
 
-Competitor Analysis
+## Competitor Analysis
 
 Competitor Focus Area Weakness InsightFlow Advantage
 
@@ -60,7 +60,7 @@ SurveyMonkey Structured surveys Weak qualitative data processing We specialize i
 Hotjar Web UX feedback Focused on behavior, not language InsightFlow analyzes the why
 
 
-Revenue Model
+## Revenue Model
 
 Subscription-based pricing with three tiers:
 
