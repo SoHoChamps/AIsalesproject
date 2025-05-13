@@ -31,3 +31,11 @@
 - [ ] Ensure charts dynamically update based on loaded data
 
 ---
+
+## Phase 5: MVP Finalization & Testing (May 11)
+
+· Perform full functionality test: chatbot → backend → dashboard
+
+· Debug layout issues and logic inconsistencies
+
+· Polish UI/UX: loading indicators, mobile responsiveness, minor fixes
