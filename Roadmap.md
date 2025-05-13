@@ -39,3 +39,23 @@
 - Debug layout issues and logic inconsistencies
 
 - Polish UI/UX: loading indicators, mobile responsiveness, minor fixes
+
+
+## Phase 6: Presentation & Delivery (May 12)
+
+- Final walkthrough and live demo of end-to-end flow
+
+- Prepare pitch based on business plan and product use case
+
+- Optional: Create a static landing page summarizing InsightFlow’s value
+
+
+## Tools & Libraries
+
+- Frontend: HTML, CSS, JavaScript, Chart.js
+
+- Backend: Node.js/Express or local file handling
+
+- APIs: OpenAI / Cohere / basic sentiment module
+
+- Hosting: GitHub Pages or run locally in Visual Studio Code
