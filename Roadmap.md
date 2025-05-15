@@ -1,20 +1,19 @@
-## Phase 1: Initial Build (May 2–6) 
+## Phase 1: Initial Build (May 2–4) 
 - Chatbot UI (basic flow, questions, data capture)
 - Dashboard UI (initial page with KPIs, structure, placeholder charts)
 - Frontend layout with sidebar navigation and multi-page simulation
 
 ---
 
-## Phase 2: Core Functionality + Architecture (May 7–8)
+## Phase 2: Core Functionality + Architecture (May 5–8)
 - Add multiple pages to the dashboard using sidebar navigation
-- Implement modular routing logic or tab system to switch views
-- Connect chatbot responses to a local JSON file or simple database
-- Load interview data dynamically into the dashboard
+- Design UI of these additional pages
+- Connect chatbot responses to a local JSON file
 
 ---
 
-## Phase 3: NLP API & Data Processing Integration (May 8–9)
-- Integrate a basic NLP API (e.g., OpenAI, Cohere) or mock logic
+## Phase 3: NLP API & Data Processing Integration (May 9-10)
+- Integrate a OpenAI API key
 - Develop backend logic to:
   - Analyze user responses
   - Extract sentiment, keywords, and themes
@@ -24,38 +23,30 @@
 ---
 
 ## Phase 4: Visual Analytics + Charting (May 9–10)
-- Create charts using Chart.js or similar library:
-  - Sentiment over time
-  - Keyword frequency
-  - Optional: Word cloud or clustering visualization
+- Create charts using Chart.js:
+- Sentiment trends
+- Category clustering
 - Ensure charts dynamically update based on loaded data
+- AI generated summary and action recommendations based on AI analysis of user interviews
 
 ---
 
 ## Phase 5: MVP Finalization & Testing (May 11)
 
 - Perform full functionality test: chatbot → backend → dashboard
-
 - Debug layout issues and logic inconsistencies
-
-- Polish UI/UX: loading indicators, mobile responsiveness, minor fixes
+- Polish UI/UX: loading indicators, saving data, minor fixes
 
 
 ## Phase 6: Presentation & Delivery (May 12)
 
 - Final walkthrough and live demo of end-to-end flow
-
-- Prepare pitch based on business plan and product use case
-
-- Optional: Create a static landing page summarizing InsightFlow’s value
+- Create pitch deck with business plan and roadmap
 
 
 ## Tools & Libraries
 
-- Frontend: HTML, CSS, JavaScript, Chart.js
-
-- Backend: Node.js/Express or local file handling
-
-- APIs: OpenAI / Cohere / basic sentiment module
-
-- Hosting: GitHub Pages or run locally in Visual Studio Code
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js/Express, JSON, Chart.js
+- APIs: OpenAI
+- Hosting: Localhost3000
