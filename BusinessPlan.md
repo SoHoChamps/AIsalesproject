@@ -84,23 +84,15 @@ Custom enterprise packages available.
 
 ## Financial Projections (Year 1–2)
 
-Metric | Year 1 (Pilot Year) | Year 2 (Growth Phase)
-
-| --------- | --------- | --------- |
-
-Customers | 500 | 2000
-
-Revenue (est.) | $121,000 | $500,000
-
-Monthly Recurring Revenue (MRR) | $10,000 | $41,000
-
-CAC (Customer Acquisition Cost) | ~$25/customer | ~$15/customer
-
-Gross Margin | ~70% | ~75%
+| Metric                             | Year 1 (Pilot Year) | Year 2 (Growth Phase) |
+| ---------------------------------- | ------------------- | --------------------- |
+| Customers                          | 500                 | 2000                  |
+| Revenue (est.)                     | $121,000            | $500,000              |
+| Monthly Recurring Revenue (MRR)    | $10,000             | $41,000               |
+| CAC (Customer Acquisition Cost)    | ~$25/customer       | ~$15/customer         |
+| Gross Margin                       | ~70%                | ~75%                  |
 
 Assumes soft launch via direct outreach and marketing to existing market research/startup communities in Year 1.
-
-
 
 ## Team Roles and Responsibilities
 
