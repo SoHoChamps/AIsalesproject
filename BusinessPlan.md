@@ -40,7 +40,7 @@ InsightFlow stands out through:
 - *Market Size*:
   - __Total Adressable Market (TAM):__ With global spend on customer-analytics ($17B) + text‑analytics software ($12.8 B). Driven by explosion of CX data & AI adoption.
   - __Serviceable Addressable Market (SAM):__ SMB & mid‑market buyers (<$250 M rev) in NA + EU using DIY insight tools (≈ 16 % of TAM). 1.2 M firms × avg $4000 annual spend on insight software.
-  - ___Serviceable Obtainable Market (SOM):__ 3‑year capture goal: 12 k seats (2 % of early‑adopter pool) × $700 ARR. Represents 0.2 % of SAM / 0.03 % of TAM, a realistic beach‑head before Series A.
+  - __Serviceable Obtainable Market (SOM):__ 3‑year capture goal: 12 k seats (2 % of early‑adopter pool) × $700 ARR. Represents 0.2 % of SAM / 0.03 % of TAM, a realistic beach‑head before Series A.
 
 
 - *Market Drivers*:
@@ -84,19 +84,19 @@ Custom enterprise packages available.
 
 ## Financial Projections (Year 1–2)
 
-Metric      Year 1 (Pilot Year)     Year 2 (Growth Phase)
+Metric | Year 1 (Pilot Year) | Year 2 (Growth Phase)
 
-Customers            500                      2000
+| --------- | --------- | --------- |
 
-Revenue (est.)    $121,000                  $500,000
+Customers | 500 | 2000
 
-Monthly Recurring 
-Revenue (MRR)     $10,000                   $41,000
+Revenue (est.) | $121,000 | $500,000
 
-CAC (Customer 
-Acquisition Cost) ~$25/customer          ~$15/customer
+Monthly Recurring Revenue (MRR) | $10,000 | $41,000
 
-Gross Margin           ~70%                   ~75%
+CAC (Customer Acquisition Cost) | ~$25/customer | ~$15/customer
+
+Gross Margin | ~70% | ~75%
 
 Assumes soft launch via direct outreach and marketing to existing market research/startup communities in Year 1.
 
